@@ -1,4 +1,4 @@
-package learning;
+package learn;
 
 public class Test {
 
